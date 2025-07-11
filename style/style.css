@@ -10,6 +10,21 @@
     
 }
 
+/* header style */
+.header{
+    max-width: 1400px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 30px;
+    padding-bottom: 50px;
+    background-image: url(/assests/Hero-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+
 /* nav style */
 nav{
     display: flex;
@@ -28,5 +43,14 @@ nav{
     margin: 20px 100px;
     padding: 16px 35px;
 
+}
+.hero-heading{
+    color: cadetblue;
+    font-size: 50px;
+    font-weight: 900;
+}
+.hero-subtitle{
+    color:rgba(0, 0, 0, 60%);
+    font-weight: 500;
 }
     
