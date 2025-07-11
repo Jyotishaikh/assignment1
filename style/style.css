@@ -9,6 +9,14 @@
     border-radius: 5px;
     
 }
+.commonbutton:hover{
+    background-color: #4CAF50; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 
 /* header style */
 .header{
@@ -116,6 +124,50 @@ nav{
 .data-user h5{
     font-weight: 400;
 }
+
+/* form style */
+
+.get-in-touch{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(173, 216, 230,20%);
+    border-radius: 20px;
+    max-width: 1140px;
+    margin: 40px 60px;
+    padding: 80px 100px;
+    
+}
+.get-in-touch h2{
+    font-size: 60px;
+
+}
+
+
+.get-in-touch input[type=text]{
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+    padding: 10px 20px;
+    
+}
+.get-in-touch input[type=email]{
+    height: 30px;
+    width: auto;
+    border-radius: 5px;
+    padding: 10px 20px;
+    
+}
+textarea{
+    border-radius: 5px;
+    padding: 10px 20px;
+    columns: 50px;
+}
+    
+    
+
+
+
 
 
 
