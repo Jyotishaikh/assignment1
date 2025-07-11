@@ -86,6 +86,39 @@ nav{
 }
 /* productive-user  */
 
+.productive-user{
+    background-color: rgba(173, 216, 230,40%);
+    border-radius: 20px;
+    max-width: 1140px;
+    /* margin: 30px auto; */
+    margin: 40px 60px;
+    padding: 80px 100px;
+    text-align: center;
+
+
+       
+}
+
+.prouser-title{
+    font-size: 50px;
+}
+.data-user{
+   display: flex;
+    align-items: center;
+    justify-content:space-around; 
+}
+.data-user h2{
+    color: blue;
+    font-size: 40px;
+    font-weight: 900;
+
+}
+.data-user h5{
+    font-weight: 400;
+}
+
+
+
 
 
 
