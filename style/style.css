@@ -53,4 +53,44 @@ nav{
     color:rgba(0, 0, 0, 60%);
     font-weight: 500;
 }
+/* action-section style */
+.action-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(173, 216, 230,40%);
+    width: 1140px;
+    height: 330px;
+    margin: 0 auto; 
+    padding: 1px 2px;
+    border-radius: 20px;
+       
+        
+}
+.text-action{
+    padding: 100px;    
+}
+.text-action h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+.text-action p{
+    color:rgba(0, 0, 0, 60%);
+}
+
+.image-action{
+    width: 403px;
+    height: 328px;
+    border-radius: 50px;
+    
+}
+/* productive-user  */
+
+
+
+
+
+
+
+
     
